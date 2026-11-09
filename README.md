@@ -14,7 +14,7 @@
 
 ### 如何提交意向申请？
 
-按照 [Issue 模板](https://github.com/yghdev/friends/issues/new/choose) 内容填写并提交，当条件均达成后，博主会通过审核，通过后稍等片刻即可在友链页面看到您的友链。
+按照 [Issue 模板](https://github.com/xaoxuu/friends/issues/new/choose) 内容填写并提交，当条件均达成后，博主会通过审核，通过后稍等片刻即可在友链页面看到您的友链。
 
 ### 本站信息
 
