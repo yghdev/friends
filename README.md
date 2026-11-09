@@ -14,19 +14,18 @@
 
 ### 如何提交意向申请？
 
-按照 [Issue 模板](https://github.com/xaoxuu/friends/issues/new/choose) 内容填写并提交，当条件均达成后，博主会通过审核，通过后稍等片刻即可在友链页面看到您的友链。
+按照 [Issue 模板](https://github.com/yghdev/friends/issues/new/choose) 内容填写并提交，当条件均达成后，博主会通过审核，通过后稍等片刻即可在友链页面看到您的友链。
 
 ### 本站信息
 
 当你添加本站友链时，建议复制以下信息：
 
 ```yaml
-title: xaoxuu
-url: https://xaoxuu.com
-avatar: https://weavatar.com/avatar/eba79703a241eb3526cf9a35acea6339210b15aa03247e623ce77226399cb057?sha256=1&d=mp&s=512
-screenshot: https://xaoxuu.com/assets/xaoxuu/2022/10/23/63542895cfd29.png
-description: For all time, always.
-feed: https://xaoxuu.com/atom.xml
+title: flechazo's blog
+url: https://blog.yghsite.cn
+avatar: https://weavatar.com/avatar/a43be7601215d54c9fcc207bb8d98d3504cc65085bea74edb8b46e463e412fcd?s=400
+description: 记录 AI、开发与折腾的日常。
+feed: https://blog.yghsite.cn/rss.xml
 ```
 
-> 头像地址末尾的 `s=512` 是尺寸，如果显示框架较小可以自行调节至合适的尺寸。
+> 头像地址末尾的 `s=400` 是尺寸，如果显示框架较小可以自行调节至合适的尺寸。
